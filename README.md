@@ -6,3 +6,4 @@ change2 to test for rebase
 change3 to test for rebase
 change4 to test for rebase
 change5 to test for rebase
+change6 to test for rebase
